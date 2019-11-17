@@ -1,7 +1,7 @@
 import java.io.*;
 
 //Chase Anzelc
-//700675123
+//Algorithm Design 2019
 
 class ReadData {
 
