@@ -17,10 +17,10 @@ public class SubstringMatching {
 		  		A B A B A C
 		  		0 1 2 3 4 5
    				--------
-		  A 0 | 1 1 3 1 5 1
-		  B 1 | 0 2 0 4 0 4
-	      C 2 | 0 0 0 0 0 6
-	  Other 3 | 0 0 0 0 0 0
+		  	   A 0 | 1 1 3 1 5 1
+		           B 1 | 0 2 0 4 0 4
+	                   C 2 | 0 0 0 0 0 6
+	               Other 3 | 0 0 0 0 0 0
 		 
 		 */
 		
