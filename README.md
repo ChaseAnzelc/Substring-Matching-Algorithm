@@ -1,5 +1,5 @@
 # Substring Matching Algorithm Design
-Substring Matching Application
+Substring Matching Application Using DFA (Deterministic finite automaton)
 
 
 <img src="/Images/version2_1.PNG"></img>
