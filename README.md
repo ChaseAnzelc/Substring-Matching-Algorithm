@@ -1,2 +1,4 @@
-# Substring-Matching-Algorithm-Design
+# Substring Matching Algorithm Design
 Substring Matching Application
+
+
